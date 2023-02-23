@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **antoine-palazz/antoine-palazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub Stats
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antoine-palazz&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Lino's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-palazz&layout=compact&theme=algolia&hide_border=true&hide=javascript,html" /></a> |
+| ------------- | ------------- |
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=antoine-palazz)
